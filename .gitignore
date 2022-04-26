@@ -1,0 +1,5 @@
+/vendor
+.env
+.git
+.env.example
+/node_modules
